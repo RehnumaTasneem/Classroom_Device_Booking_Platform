@@ -88,13 +88,19 @@ http://localhost/OSProject/
 ---
 
 ## 📸 Screenshots  
-*(Add screenshots here)*  
-- Login Page  
-- Teacher Dashboard  
-- Admin Dashboard  
-- Deadlock Simulation  
+<img width="1919" height="909" alt="Screenshot 2025-08-05 191111" src="https://github.com/user-attachments/assets/15b36d2e-1f36-4f66-9ccf-6bb500450368" />
+
+<img width="1900" height="906" alt="Screenshot 2025-08-05 191608" src="https://github.com/user-attachments/assets/13f45654-029b-4774-aac9-7d6be4af6ce9" />
+
+<img width="1919" height="901" alt="Screenshot 2025-08-05 192123" src="https://github.com/user-attachments/assets/e953e628-6754-4238-88a5-20bc65901c1b" />
+
+<img width="1918" height="900" alt="Screenshot 2025-08-05 191304" src="https://github.com/user-attachments/assets/66f7a83d-3f8f-4d44-a077-8c62dfb34628" />
+
+<img width="1903" height="903" alt="Screenshot 2025-08-05 192105" src="https://github.com/user-attachments/assets/20bd752f-56cf-40f4-8fe6-6f26af01ec45" />
+
+<img width="1901" height="901" alt="Screenshot 2025-08-05 192005" src="https://github.com/user-attachments/assets/3a15a316-14eb-4703-b374-af1b5f1a64b7" />
 
 ---
 
 ## 👤 Author  
-Developed by **[Your Name]** for an Operating Systems course project.  
+Developed by **Rehnuma** for an Operating Systems course project.  
