@@ -79,6 +79,7 @@ $conn = mysqli_connect("localhost", "root", "", "device_booking");
 Run the Project – Open a browser and go to:
 
 http://localhost/OSProject/
+
 📸 Screenshots
 <img width="1919" height="909" alt="Screenshot 2025-08-05 191111" src="https://github.com/user-attachments/assets/5c9be7a0-9931-4de6-bef5-5b575e8c7f09" />
 
